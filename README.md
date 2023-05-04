@@ -3,6 +3,7 @@
 
 ## Deployed Link
 ```
+https://otp-verification-page.vercel.app/
 ```
 
 ## How to get started
